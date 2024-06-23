@@ -101,12 +101,12 @@
 	      <url>http://51.20.79.66:8081/#admin/repository/repositories:fb-release</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	   <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://51.20.79.66:8081/#admin/repository/repositories:fb-snapshot/</url>
 	    </snapshotRepository>
-	    
+	    -->
 	</distributionManagement>
 	
 	<build>
