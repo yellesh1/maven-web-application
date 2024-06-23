@@ -98,15 +98,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://51.20.79.66:8081/#admin/repository/repositories:fb-release</url>
+	      <url>http://51.20.79.66:8081/repository/fb-release/</url>
 	    </repository>
 	    
-	   <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://51.20.79.66:8081/#admin/repository/repositories:fb-snapshot/</url>
+	      <url>http://51.20.79.66:8081/repository/fb-snapshot/</url>
 	    </snapshotRepository>
-	    -->
+	
 	</distributionManagement>
 	
 	<build>
